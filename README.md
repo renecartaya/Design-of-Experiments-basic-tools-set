@@ -1,4 +1,4 @@
-# Design-of-Experiments-tools-set
+# Design-of-Experiments-basic-tools-set
 
 Repository of statistical tools for Design of Experiments
 
