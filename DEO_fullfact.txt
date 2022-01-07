@@ -1,6 +1,0 @@
-
-File with the Experimental Parameters based in Full Factorial design
-
-
-Here could be the name of the columns 
-
