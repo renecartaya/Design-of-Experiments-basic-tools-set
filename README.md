@@ -5,6 +5,7 @@ The current repository contain a compilation of statistical tools for Design of 
 Important part of this repository is based in the python packages pyDOE, pyDOE2, and DOEPY according to the official webpages, this packages are designed for their use for scientist, engineers, statistician to support optimal experimental designs. The Capabilities includes:
 
  1) Factorial Designs.
+ 
     1.1) General Full Factorial.
     1.2) 2-Level Full Factorial.
     1.3) 2-Level Fractional-Factorial.
