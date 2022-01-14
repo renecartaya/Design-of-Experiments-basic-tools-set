@@ -42,6 +42,16 @@ For the case of DOEPY previusly should be installed
 
 All the available functionalities from pyDOE can be accessed by the statement
 
+Some of the Experimental Design statistical tools includes:
+
+ 1) Latin Hypercube
+ 2) Box_Behnken
+ 3) Full factorial
+ 4) Halton
+ 5) Maxi Min
+ 6) Plackett Burman
+ 7) Uniform Random
+
  >> from pyDOE import *
 
 For the case of 
