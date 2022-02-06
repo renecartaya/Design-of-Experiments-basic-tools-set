@@ -1,0 +1,12 @@
+# Set of values 
+# 
+# Temperature, Pressure, Flow rate, Time
+# 
+# 
+52.2,319.8,0.3,7.8
+53.3,301.7,0.4,6.5
+48.3,308.4,0.2,5.1
+44.3,317.5,0.3,6.5
+# 
+# 
+# Author: RRené Cartaya
