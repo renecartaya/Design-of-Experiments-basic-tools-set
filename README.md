@@ -1,6 +1,6 @@
 # Design-of-Experiments-basic-tools-set
 
-The current repository contain a compilation of statistical tools for Design of Experiments mainly in python and R. The current repository has been implemented using the interactive development environment Jupyterlab 3.2.1 under the Anaconda distribution. 
+The current repository contain a compilation of statistical tools for Design of Experiments implemented in Python. The current repository has been implemented using the interactive development environment Jupyterlab 3.2.1 under the Anaconda distribution. 
 
 Important part of this repository is based in the python packages pyDOE, pyDOE2, and DOEPY according to the official webpages, this packages are designed for their use for scientist, engineers, statistician to support optimal experimental designs. The Capabilities includes:
 
