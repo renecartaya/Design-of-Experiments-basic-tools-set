@@ -54,7 +54,7 @@ Some of the Experimental Design statistical tools includes:
 
  >> from pyDOE import *
 
-## Observations
+## References
 
 For more information about pyDOE please visit the web: https://pythonhosted.org/pyDOE/.
 
