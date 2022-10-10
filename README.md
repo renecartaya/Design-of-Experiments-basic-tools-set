@@ -16,7 +16,7 @@ Important part of this repository is based in the python packages pyDOE, pyDOE2,
     
  2) Response-Surface Design.
  
-    2.2) Box-Behnkel.
+    2.1) Box-Behnkel.
   
     2.2) Central-Composite.
     
