@@ -53,6 +53,24 @@ Well defined process steps to help to carry out a successful design experiment
 
 ## Basic statistical concepts
 
+Some important concepts for the description of the sample data
+
+ - Random samples
+ - Sample mean
+ - Sample variance
+ - Sample stanard deviation
+ - Population versus sampling
+ - Population mean
+ - Population variance
+ - Population satandard deviation
+ - Estimating parametres
+
+Simple comparative experiments tools could include:
+
+ - The hypothesis testing framework
+ - The two-sample t-test
+ - Checking assumptions, validity
+
 ## Descriptive statistics
 
 ## Normal Distribution
