@@ -51,4 +51,22 @@ Well defined process steps to help to carry out a successful design experiment
 
  In the creation of current experimental design,Fisher created:
 
+## Basic statistical concepts
+
+## Descriptive statistics
+
+## Normal Distribution
+
+## Simple comparative experiments
+
+## Statistical hypothesis testing
+
+## Pooled t-test
+
+## Two sample t-test
+
+## Confidence Intervals
+
+## Sample size determination
+
  
