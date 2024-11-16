@@ -1,5 +1,13 @@
 # Experimental Design
 
+Design of Experiments as is known today was structured by Fisher under three basic concepts that form its basis:
+
+ - Randonization: running the test of an experiment in randon order.
+ - Replication: repeating at leas some runs of the experiment
+ - Blocking: a technique to control nuisance variation during the experiment
+
+Alongside with this three basic concepts, Fisher create the basic idea of Factorial Design as well as the idea of Analysis of Variance
+
 ## Strategy of Experimentation
 
 - "Best-guess" experiment
@@ -11,7 +19,9 @@
 - Statistically designed experiments
   - Based on Fisher´s factorial concept
 
-## 7 Step approach
+## 7 Step process
+
+Well defined process steps to help to carry out a successful design experiment
 
 1) Recognition of the statements of the problems
 2) Choice of factors, leveles, and ranges
@@ -31,5 +41,9 @@
  
 ### Factorial Design
  In factorial experimental design, all possible combinations of factor levels are tested.
+
+ ### Note
+
+ In the creation of current experimental design,Fisher created:
 
  
