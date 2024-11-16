@@ -31,6 +31,11 @@ Well defined process steps to help to carry out a successful design experiment
 6) Statistical analysis
 7) Drawing conclusions, recommendations.
 
+## 3 Step report principle
+1) Describe the problem: concise statemen of the problem that the experiment addresses
+2) Identify the factor to be studied in the experiment: ranges of factors and numbers of levels
+3) Identify the response variable or variables: this including how response is going to be measured and how the measuring technique is calibrated and how the measurement system ramains consistent or in calibration during the experiment.
+
 ## Planning, Conducting and Analyzing an Experiment
 
  - Get statistical thinking involved early
