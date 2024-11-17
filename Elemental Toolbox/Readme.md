@@ -1,5 +1,7 @@
 # Readme
 
+# Introduction
+
 When comes to make a first view to the data of the problem we want to solve using Experimental Design approach, then it is very useful to start with a basic statistical tool that allow us to do a first assesment of the measurements. Here is a set of key descriptive statistics tools that includes:
 
 ## Measures of Central Tendency:
