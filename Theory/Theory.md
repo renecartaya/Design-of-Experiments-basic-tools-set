@@ -71,6 +71,13 @@ Simple comparative experiments tools could include:
  - The two-sample t-test
  - Checking assumptions, validity
 
+### The Hypothesis Testing Framework
+
+Statistical hypothesis testing is a useful framework for many experimental solutions. This framework includes:
+
+ - Two-sample t-test: sampling for a normal distribution and use the statistical Hyphotesis:
+   
+
 ## Descriptive statistics
 
 ## Normal Distribution
