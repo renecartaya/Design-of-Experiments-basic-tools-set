@@ -76,6 +76,8 @@ Simple comparative experiments tools could include:
 Statistical hypothesis testing is a useful framework for many experimental solutions. This framework includes:
 
  - Two-sample t-test: sampling for a normal distribution and use the statistical Hyphotesis:
+
+![alt text](https://github.com/renecartaya/Design-of-Experiments-basic-tools-set/blob/main/Elemental%20Toolbox/Images/Two-Sample%20t-Test%20Sampling%20Visualization.PNG)
    
 
 ## Descriptive statistics
