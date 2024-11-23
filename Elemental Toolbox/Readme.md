@@ -6,7 +6,7 @@ When comes to make a first view to the data of the problem we want to solve usin
 
 ## Measures of Central Tendency:
 
- - Mean (Average): Determines the central tendency of your positioning data.
+ - Mean (Average): Determines the central tendency of the data.
  - Median: Useful for skewed data to understand the central position without the influence of outliers.
  - Mode
 
