@@ -14,12 +14,12 @@ When comes to make a first view to the data of the problem we want to solve usin
 
  - Standard Deviation (SD): Measures the dispersion or variability around the mean.
  - Variance: The square of the standard deviation, indicating data spread.
- - Range (Maximum - Minimum): Difference between the maximum and minimum values.
+ - Range (Maximum - Minimum): Shows the difference between the maximum and minimum values.
  - Interquartile Range (IQR)
 
 ## Additional Statistics:
 
- - Count (number of observations)
+ - Count (number of observations) or size of the sample
  - Sum
 
 
